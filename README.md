@@ -2,4 +2,4 @@
 <br>
 This is my first git repository
 <br>
-# Author- Mahak Sharma
+Author- Mahak Sharma
